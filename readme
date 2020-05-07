@@ -1,0 +1,3 @@
+download-data.R : downloads data from the HarvardX instructor's github
+wrangle-data.R : wranges the downloaded file. Turns csv into dataframe
+analysis.R : produces graph output of gun murders
